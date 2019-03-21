@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My Stream",
+      "id": 1
+    },
+    {
+      "title": "Hello",
+      "description": "Hello",
+      "id": 2
+    },
+    {
+      "title": "New",
+      "description": "New",
+      "id": 3
+    },
+    {
+      "title": "Me",
+      "description": "Me",
+      "id": 4
+    },
+    {
+      "title": "vvdvdvdsvsd",
+      "description": "vdsvdvdsvdsvdsfdv",
+      "id": 5
+    }
+  ]
+}
